@@ -41,10 +41,9 @@ html {
     background-position: center;
     background-repeat: no-repeat;
     padding: 7% 0 5% 0;
+    min-height: 380px;
 }
 
 #texto2 {
-    width: auto;
-    height: auto;
     float: right;
 }
