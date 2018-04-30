@@ -20,12 +20,13 @@ html {
     background-image: url(../images/profile2.jpg);
     background-color: white;
     background-size: contain;
-    background-position: right center;
+    background-position: right;
     background-repeat: no-repeat;
     padding-top: 15%;
     margin-top: 20px;
     margin-bottom: 0px;
     min-width: 400px;
+    line-height: 5px;
 }
 
 #profile {
@@ -33,3 +34,17 @@ html {
     float: left;
 }
 
+#container2{
+    background-image: url(../images/placeholder-image4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 7% 0 5% 0;
+    min-height: 400px;
+}
+
+#texto2 {
+    width: auto;
+    height: auto;
+    float: right;
+}
