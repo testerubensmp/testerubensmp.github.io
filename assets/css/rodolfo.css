@@ -1,6 +1,7 @@
 
 html {
     height: 100%;
+    min-height: 380px;
 }
 
 .nav-item {
@@ -25,7 +26,6 @@ html {
     padding-top: 15%;
     margin-top: 20px;
     margin-bottom: 0px;
-    min-width: 380px;
     line-height: 5px;
 }
 
@@ -40,7 +40,6 @@ html {
     background-position: center;
     background-repeat: no-repeat;
     padding: 7% 0 5% 0;
-    min-height: 380px;
 }
 
 #texto2 {
