@@ -1,0 +1,35 @@
+
+html {
+    height: 100%;
+}
+
+.nav-item {
+    letter-spacing: 1px;
+}
+
+.btn{
+    box-shadow: none !important;
+}
+
+#getstarted {
+    text-transform: uppercase;
+}
+
+.jumbotron-fluid{
+    margin-top: px;
+    background-image: url(../images/profile2.jpg);
+    background-color: white;
+    background-size: contain;
+    background-position: right center;
+    background-repeat: no-repeat;
+    padding-top: 15%;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    
+}
+
+#profile {
+    text-align: center;
+    float: left;
+}
+
